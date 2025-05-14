@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/srinidhi-portfolio/static/css/main.1439f14e.css",
+    "main.js": "/srinidhi-portfolio/static/js/main.9bb31596.js",
+    "static/media/marco-antonio-casique-reyes-1ql9Ut8JoUI-unsplash.jpg": "/srinidhi-portfolio/static/media/marco-antonio-casique-reyes-1ql9Ut8JoUI-unsplash.75fdf73a5c0a2430268b.jpg",
+    "static/media/robin-glauser-zP7X_B86xOg-unsplash.jpg": "/srinidhi-portfolio/static/media/robin-glauser-zP7X_B86xOg-unsplash.caebd348f27cdaf8a04c.jpg",
+    "static/media/fahim-muntashir-M02I8Ab_TT4-unsplash.jpg": "/srinidhi-portfolio/static/media/fahim-muntashir-M02I8Ab_TT4-unsplash.d4c4d39a3403d4e9778f.jpg",
+    "static/media/c-dustin-K-Iog-Bqf8E-unsplash.jpg": "/srinidhi-portfolio/static/media/c-dustin-K-Iog-Bqf8E-unsplash.0cfceb27abc65da108cf.jpg",
+    "static/media/tuyen-vo-tS-jh0M6JoA-unsplash.jpg": "/srinidhi-portfolio/static/media/tuyen-vo-tS-jh0M6JoA-unsplash.f88137b9c8316f7be8a5.jpg",
+    "static/media/jelleke-vanooteghem-6NUlOHM40w8-unsplash.jpg": "/srinidhi-portfolio/static/media/jelleke-vanooteghem-6NUlOHM40w8-unsplash.e238c9719ccfd9990dec.jpg",
+    "static/media/willian-justen-de-vasconcellos-PwcJ-IwWPI0-unsplash.jpg": "/srinidhi-portfolio/static/media/willian-justen-de-vasconcellos-PwcJ-IwWPI0-unsplash.14fd37a67ae4789212c4.jpg",
+    "index.html": "/srinidhi-portfolio/index.html",
+    "main.1439f14e.css.map": "/srinidhi-portfolio/static/css/main.1439f14e.css.map",
+    "main.9bb31596.js.map": "/srinidhi-portfolio/static/js/main.9bb31596.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1439f14e.css",
+    "static/js/main.9bb31596.js"
+  ]
+}
